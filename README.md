@@ -6,4 +6,4 @@ cd qmk "tab" fi "tab" (should auto complete firmware) (press enter)
 make prime_e:xx:dfu   (press enter)
 
 
-![Atreus42 Hand Wired Mechanical Keyboard](/Prime_e%20small.jpg)
+![Atreus42 Hand Wired Mechanical Keyboard](/Prime_e%20small%202.jpg)
