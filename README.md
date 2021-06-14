@@ -1,4 +1,7 @@
 # Prime_E	An ergonomic 45%. 
+Note: github does not like the formatting, but it works on a txt file.
+
+
 The keymap for my Prime_e keyboard
 cd qmk "tab" fi "tab" (should auto complete firmware) (press enter)
 
