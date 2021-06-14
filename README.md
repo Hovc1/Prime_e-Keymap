@@ -1,4 +1,4 @@
-# Prime_E	An ergonomic 45%. 
+# Prime_E: An ergonomic 45% keyboard
 Note: github does not like the formatting, but it works on a txt file.
 
 
